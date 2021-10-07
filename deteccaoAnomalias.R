@@ -8,7 +8,7 @@ library(keras)
 library(dplyr)
 library(ggplot2)
 
-setwd("~/Sistemas/AnomalyDetection")
+setwd("~/Sistemas/GitHub/anomalias")
 
 options(scipen = 999)
 
